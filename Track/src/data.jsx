@@ -1,0 +1,1 @@
+export const tasks =[{id:Math.random(), title:"task1" ,task:"study"}]
